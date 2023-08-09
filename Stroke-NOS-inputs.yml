@@ -1,0 +1,66 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/stroke-nos---primary.py
+inputModule3:
+  class: File
+  path: python/stroke-nos-cva---primary.py
+inputModule4:
+  class: File
+  path: python/stroke---primary.py
+inputModule5:
+  class: File
+  path: python/stroke-nos-selfmanagement---primary.py
+inputModule6:
+  class: File
+  path: python/stroke-nos-review---primary.py
+inputModule7:
+  class: File
+  path: python/annual-stroke-nos---primary.py
+inputModule8:
+  class: File
+  path: python/stroke-nos-improvement---primary.py
+inputModule9:
+  class: File
+  path: python/stroke-nos-indicator---primary.py
+inputModule10:
+  class: File
+  path: python/stroke-nos-excepted---primary.py
+inputModule11:
+  class: File
+  path: python/stroke-nos-lacunar---primary.py
+inputModule12:
+  class: File
+  path: python/stroke-nos-unspecified---primary.py
+inputModule13:
+  class: File
+  path: python/stroke-nos-sided---primary.py
+inputModule14:
+  class: File
+  path: python/stroke-nos-infarction---primary.py
+inputModule15:
+  class: File
+  path: python/stroke-nos-puerperium---primary.py
+inputModule16:
+  class: File
+  path: python/stroke-nos-history---primary.py
+inputModule17:
+  class: File
+  path: python/stroke-nos-brain---secondary.py
+inputModule18:
+  class: File
+  path: python/stroke-nos---secondary.py
+inputModule19:
+  class: File
+  path: python/stroke-nos-lacunar---secondary.py
+inputModule20:
+  class: File
+  path: python/stroke-nos-syndrome---secondary.py
+inputModule21:
+  class: File
+  path: python/stroke-nos-infarction---secondary.py
+inputModule22:
+  class: File
+  path: python/output-cases.py
